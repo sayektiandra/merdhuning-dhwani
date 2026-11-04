@@ -46,6 +46,18 @@ Panduan tersebut menyediakan contoh atribusi untuk deskripsi YouTube, materi pen
 
 Untuk ketentuan lengkap, silakan baca [LICENSE.md](LICENSE.md).
 
+## Teks Kanonik
+
+Setiap lirik yang pertama kali diterbitkan secara resmi oleh pencipta akan ditetapkan sebagai teks kanonik (*Canon*), sebagaimana dicatat dalam metadata karya.
+
+Sekali diterbitkan, lirik tersebut menjadi bagian dari sejarah tetap karya yang tidak boleh diubah, dihapus, atau ditulis ulang, bahkan oleh saya sendiri (Andra Eka / Andra Sayekti) sebagai penciptanya.
+
+Setiap perubahan kreatif selanjutnya harus diterbitkan secara terpisah sebagai variasi atau adaptasi, tanpa menggantikan teks kanonik.
+
+Ketentuan ini menjaga keaslian, keutuhan, dan jejak historis setiap karya.
+
+Untuk ketentuan selengkapnya, silakan baca [Konstitusi Teks Kanonik](https://github.com/sayektiandra/merduning-dhwani/blob/main/KONSTITUSI-TEKS-KANONIK.md).
+
 ## Dukungan / Donasi Sukarela
 
 Jika Anda menikmati karya-karya dalam repositori ini dan ingin mendukung pengelola repositori, donasi sukarela dapat diberikan melalui platform berikut:
