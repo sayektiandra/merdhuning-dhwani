@@ -1,62 +1,62 @@
 # Panduan Atribusi
 
-Dokumen ini menyediakan format atribusi yang direkomendasikan untuk karya musik dan materi terkait dalam repositori ini.
+Dokumen ini menyediakan panduan sederhana untuk memberikan atribusi terhadap karya asli dan adaptasinya yang diterbitkan dalam repositori ini.
 
-Saat membagikan atau mengadaptasi karya yang dinyatakan berlisensi CC BY 4.0 dalam repositori ini, berikan atribusi yang sesuai dengan ketentuan lisensi yang berlaku. Periksa berkas README pada karya terkait untuk memastikan nama pencipta, sumber, lisensi, dan informasi lainnya.
+Karya yang secara jelas dinyatakan menggunakan lisensi **Creative Commons Attribution 4.0 International (CC BY 4.0)** dapat digunakan dan diadaptasi sesuai ketentuan lisensi tersebut.
 
-## Atribusi yang Direkomendasikan
+## 1. Atribusi Karya Asli
 
-Informasi berikut direkomendasikan saat memberikan atribusi:
+Ketika membagikan atau menggunakan karya tanpa perubahan, cantumkan informasi berikut:
 
-- **Judul:** [Judul Karya]
-- **Pencipta:** [Nama Pencipta]
-- **Sumber:** [Tautan Langsung ke Karya Asli atau Repositori GitHub Asal]
-- **Lisensi:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-- **Perubahan:** [Tidak ada perubahan / Jelaskan perubahan yang dilakukan, jika ada]
+- **Judul:** Judul karya.
+- **Pencipta:** Nama pencipta asli.
+- **Lisensi:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+- **Sumber:** Tautan menuju karya asli, jika memungkinkan.
 
-Pertahankan pemberitahuan hak cipta dan informasi atribusi lainnya yang disertakan bersama karya, sesuai ketentuan lisensi yang berlaku.
+Contoh:
 
-Untuk rekaman, demo, atau pertunjukan, Anda juga dapat mencantumkan nama penampil, artis rekaman, pengaransemen, atau instrumentalis terkait jika relevan.
+Karya: [Judul Karya]  
+Pencipta: [Nama Pencipta]  
+Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Sumber: [Tautan Karya Asli]
 
-## Format yang Disarankan
+## 2. Atribusi Karya Adaptasi
 
-### Untuk Deskripsi YouTube
+Jika menerjemahkan, mengubah, atau mengadaptasi karya, pertahankan atribusi terhadap pencipta asli dan nyatakan bahwa perubahan telah dilakukan.
 
-Lagu: [Judul Karya]  
-Ditulis oleh: [Nama Pencipta]  
-Sumber: [Tautan ke Karya Asli]  
-Lisensi: CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
+Cantumkan informasi berikut:
 
-Untuk cover, demo, atau versi adaptasi, Anda juga dapat mencantumkan nama penampil serta menjelaskan perubahan yang dilakukan terhadap karya asli.
+- **Karya Asli:** Judul karya asli.
+- **Pencipta Asli:** Nama pencipta asli.
+- **Sumber:** Tautan menuju karya asli, jika memungkinkan.
+- **Lisensi:** CC BY 4.0.
+- **Perubahan:** Keterangan singkat mengenai perubahan yang dilakukan.
+- **Pengadaptasi:** Nama pihak yang membuat adaptasi.
 
-### Untuk Materi Pendidikan
+Contoh:
 
-Format atribusi yang lebih singkat dapat digunakan jika sesuai, selama tetap memenuhi persyaratan CC BY 4.0 yang berlaku.
+Karya Asli: [Judul Karya]  
+Pencipta Asli: [Nama Pencipta]  
+Sumber: [Tautan Karya Asli]  
+Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Perubahan: [Terjemahan ke bahasa Indonesia / Adaptasi lirik / Perubahan lainnya]  
+Pengadaptasi: [Nama Pengadaptasi]
 
-"[Judul Karya]" oleh [Nama Pencipta], dilisensikan berdasarkan [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-Sumber: [Tautan ke Karya Asli]
+## 3. Atribusi dalam Pertunjukan Langsung
 
-Atribusi dapat disajikan dengan cara yang sesuai dengan format materi pendidikan, selama persyaratan lisensi yang berlaku tetap dipenuhi.
+Untuk pertunjukan langsung yang tidak menyediakan media visual atau ruang untuk mencantumkan atribusi secara lengkap, format sederhana berikut dapat digunakan:
 
-### Untuk Demo Audio dan Pertunjukan
+**[Judul Karya] — karya [Nama Pencipta], dilisensikan berdasarkan CC BY 4.0.**
 
-Lagu: [Judul Karya]  
-Ditulis oleh: [Nama Pencipta]  
-Pertunjukan atau rekaman oleh: [Nama Penampil atau Artis Rekaman, jika relevan]  
-Sumber: [Tautan ke Karya Asli]  
-Lisensi: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Apabila memungkinkan, informasi sumber karya dapat disediakan melalui daftar lagu, program acara, halaman publikasi, atau tautan lainnya.
 
-Periksa README pada karya terkait untuk mengetahui ketentuan lisensi terpisah yang mungkin berlaku bagi rekaman, demo, atau pertunjukan.
+## 4. Ketentuan Umum
 
-## Perubahan pada Karya
+- Pertahankan pemberitahuan hak cipta dan lisensi yang disertakan bersama karya.
+- Nyatakan perubahan apabila karya diterjemahkan, diubah, atau diadaptasi.
+- Atribusi kepada pencipta asli tidak berarti pencipta tersebut mendukung atau menyetujui adaptasi yang dibuat oleh pihak lain.
+- Format atribusi dapat disesuaikan dengan media dan konteks penggunaan selama tetap memenuhi ketentuan CC BY 4.0.
 
-Jika Anda mengadaptasi, mengaransemen ulang, menerjemahkan, atau mengubah karya dengan cara lain, nyatakan bahwa perubahan telah dilakukan sesuai ketentuan lisensi yang berlaku. Jika memungkinkan, jelaskan perubahan tersebut dan sertakan tautan ke versi yang telah diubah.
+Dokumen ini merupakan panduan, bukan lisensi tersendiri. Ketentuan **CC BY 4.0** tetap menjadi acuan utama dan panduan ini tidak menambahkan persyaratan atau pembatasan di luar ketentuan lisensi tersebut.
 
-## Pemberitahuan Hukum
-
-Dokumen ini merupakan panduan atribusi, bukan lisensi tersendiri. Jika terdapat ketidaksesuaian, ketentuan CC BY 4.0 yang berlaku tetap menjadi acuan.
-
-Format atribusi yang direkomendasikan disediakan untuk memudahkan penggunaan dan tidak dimaksudkan untuk menambahkan pembatasan di luar CC BY 4.0. Persyaratan atribusi tetap tunduk pada ketentuan lisensi tersebut dan hukum yang berlaku.
-
-Untuk membaca ketentuan lisensi secara lengkap, kunjungi [Teks Hukum Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
+Baca [Teks Hukum Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) untuk mengetahui ketentuan lisensi secara lengkap.
