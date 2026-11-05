@@ -21,6 +21,6 @@ Pengecualian ini merupakan penetapan cakupan lisensi repositori, bukan pernyataa
 
 Materi pihak ketiga yang dimuat dalam repositori ini tetap mengikuti lisensi atau ketentuan penggunaan yang berlaku atas materi tersebut.
 
-Dokumen ini menjelaskan cakupan penerapan lisensi dalam repositori dan tidak mengubah ketentuan hukum **CC BY 4.0** sebagaimana tercantum dalam `[LICENSE.md](./LICENSE.md)'.
+Dokumen ini menjelaskan cakupan penerapan lisensi dalam repositori dan tidak mengubah ketentuan hukum **CC BY 4.0** sebagaimana tercantum dalam `[LICENSE.md](./LICENSE.md)`.
 
 Untuk membaca ketentuan lisensi secara lengkap, kunjungi [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode).
