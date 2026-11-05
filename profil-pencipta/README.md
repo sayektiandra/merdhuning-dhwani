@@ -1,12 +1,10 @@
 # PROFIL PENCIPTA
 
-| Metadata | Keterangan |
-|---|---|
-| Nama Profesional | Andra Eka |
-| Nama Pena | Andra Sayekti |
-| Bidang Karya | Musik dan Sastra |
-| Peran | Pencipta dan Penulis Lirik |
-| Repositori | `merduning-dhwani` |
+**Nama Profesional:** Andra Eka  
+**Nama Pena:** Andra Sayekti  
+**Bidang Karya:** Musik dan Sastra  
+**Peran:** Pencipta dan Penulis Lirik  
+**Repositori:** `merduning-dhwani`
 
 ## Tentang Pencipta
 
