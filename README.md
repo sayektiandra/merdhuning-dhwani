@@ -3,82 +3,99 @@
 [![Scope of License (EN)](https://img.shields.io/badge/Scope_of_License-English-blue)](SCOPE-OF-LICENSE.md)
 [![Issues](https://img.shields.io/github/issues/sayektiandra/merduning-dhwani)](https://github.com/sayektiandra/merduning-dhwani/issues)
 
+
 # Merduning Dhwani
 
-Merduning Dhwani adalah repositori untuk menghimpun, mendokumentasikan, dan membagikan karya lagu, terutama lirik lagu dan materi tertulis yang berkaitan.
+Simplenya — repo ini berisi kumpulan lirik karya Andra Sayekti dan para kontributor, jika ada.
 
-Setiap karya dapat disertai informasi mengenai pencipta, bahasa, sumber, dan lisensinya. Materi lain seperti terjemahan, aransemen, demo, atau rekaman dapat ditambahkan jika tersedia.
+## Gini
 
-Repositori ini dapat memuat karya pemilik repositori maupun kontributor lain. Informasi mengenai pencipta dan lisensi setiap karya dicantumkan pada direktori atau berkas informasi yang menyertainya.
+Karya-karya tertulis di sini bebas digunakan sesuai ketentuan lisensi yang berlaku.
 
-## Cakupan Karya
+Silakan gunakan dan kembangkan karya tertulis dalam repositori ini. Namun, kebebasan bukan alasan untuk merendahkan atau merugikan orang di baliknya. Setiap penggunaan tetap perlu disertai tanggung jawab dan sikap saling menghargai.
 
-Repositori ini dapat memuat berbagai materi yang berkaitan dengan karya lagu, antara lain:
+Karya disediakan apa adanya (*as-is*).
 
-- **Lirik lagu:** teks asli dari lagu yang diterbitkan.
-- **Terjemahan:** versi bahasa lain dari lirik lagu.
-- **Materi pendukung:** catatan, penjelasan, atau dokumentasi yang berkaitan dengan karya.
-- **Materi audio:** demo, rekaman vokal, aransemen, atau pertunjukan, jika tersedia.
+## Cara Penggunaan
 
-Tidak setiap karya harus memiliki seluruh materi tersebut. Informasi dan berkas yang tersedia mengikuti kebutuhan masing-masing karya.
+**1. Mau membaca lirik?**
 
-Karya dapat dibuat oleh pemilik repositori maupun kontributor lain, dengan identitas pencipta dan ketentuan penggunaan yang dijelaskan pada informasi setiap karya.
+Gampang ahh.. Buka folder karya, pilih judul yang ingin dibaca, lalu buka `CANON.md`.
 
-## Lisensi
+**2. Mau menggunakan atau menyanyikan ulang?**
 
-Seluruh karya yang diterbitkan dalam repositori ini, termasuk lirik lagu, terjemahan, materi tertulis, dan kontribusi yang diterima, dilisensikan berdasarkan **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+Boleh banget! Silakan gunakan, bagikan, atau nyanyikan ulang karya di sini. Cukup cantumkan atribusi pencipta sesuai ketentuan CC BY 4.0.
 
-Lisensi ini memungkinkan siapa pun untuk membagikan, mengadaptasi, dan menggunakan karya untuk tujuan komersial, selama ketentuan atribusi dan persyaratan lain dalam lisensi dipatuhi.
+Tidak tahu cara membuat atribusi? Tenang, buka `METADATA.md` pada folder karya. Tinggal salin dan tempel format yang sudah disediakan.
 
-Pencipta tetap memiliki hak cipta atas karyanya. Dengan lisensi ini, pencipta memberikan izin kepada publik untuk menggunakan karya sesuai ketentuan CC BY 4.0.
+**3. Mau menerjemahkan atau mengubah lirik?**
 
-Kontributor yang menyerahkan karya untuk diterbitkan dalam repositori ini harus memiliki hak atau izin yang diperlukan dan menyetujui penggunaan CC BY 4.0 untuk karya tersebut. Materi yang tidak dapat dilisensikan berdasarkan CC BY 4.0 tidak boleh dimasukkan sebagai kontribusi.
+Boleh Banget... Anda bebas menerjemahkan, mengubah, atau mengembangkan karya menjadi versi baru.
 
-Baca teks lengkap lisensi melalui berkas [LICENSE.md](LICENSE.md) atau situs resmi [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
+Jangan lupa:
+- Cantumkan atribusi karya aslinya.
+- Beritahukan perubahan yang Anda lakukan.
+- Jangan menyamarkan karya adaptasi seolah-olah merupakan karya asli tanpa perubahan.
 
-## Cara Menggunakan dan Memberikan Atribusi
+**4. Harus minta izin dulu?**
 
-Anda dapat menggunakan, membagikan, mengadaptasi, atau mengaransemen ulang karya dalam repositori ini sesuai ketentuan CC BY 4.0.
+Tidak perlu meminta izin satu per satu untuk penggunaan yang sudah diizinkan oleh CC BY 4.0. Selama ketentuan lisensinya dipatuhi, silakan berkarya.
 
-Saat membagikan karya, berikan atribusi yang sesuai kepada pencipta, sertakan sumber dan tautan lisensi, serta nyatakan perubahan yang dilakukan jika karya telah dimodifikasi.
+**5. Masih bingung?**
 
-Untuk memudahkan pemberian atribusi, silakan merujuk pada panduan berikut:
+Baca `ATTRIBUTION.id.md` untuk panduan atribusi atau `LICENSE.md` untuk ketentuan lisensi lengkap. Kalau masih bingung juga, Google selalu siap membantu, hehe.
 
-- [Panduan Atribusi (Bahasa Indonesia)](ATTRIBUTION.id.md)
-- [Attribution Guide (English)](ATTRIBUTION.en.md)
+Intinya, saling menghargai orang lain juga berarti menghargai diri sendiri. Silakan gunakan dan kembangkan karya ini dengan bebas, tetapi jangan lupa untuk tetap bertanggung jawab dan menghormati ketentuan lisensinya.
 
-Panduan tersebut menyediakan contoh atribusi untuk deskripsi YouTube, materi pendidikan, demo audio, pertunjukan, dan karya yang telah diadaptasi.
+Setiap pengguna bertanggung jawab atas cara mereka menggunakan, membagikan, maupun mengadaptasi karya. Jadi, apa pun yang dilakukan pihak lain terhadap karya setelah digunakan atau dibagikan berada di luar kendali pemilik repositori. Pemilik repositori tidak bertanggung jawab atas tindakan pihak lain tersebut, sejauh diperbolehkan oleh hukum yang berlaku.
 
-Untuk ketentuan lengkap, silakan baca [LICENSE.md](LICENSE.md).
+## Ketentuan
 
-## Teks Kanonik
+Untuk penggunaan lebih lanjut, termasuk hal-hal yang membutuhkan pemahaman ketentuan secara lebih mendalam, silakan merujuk pada dokumen berikut:
 
-Setiap lirik yang pertama kali diterbitkan secara resmi oleh pencipta akan ditetapkan sebagai teks kanonik (*Canon*), sebagaimana dicatat dalam metadata karya.
+- **Cakupan Lisensi:** [CAKUPAN-LISENSI.md](./CAKUPAN-LISENSI.md) · [SCOPE-OF-LICENSE.md](./SCOPE-OF-LICENSE.md)
+- **Lisensi Lengkap:** [LICENSE.md](./LICENSE.md)
+- **Panduan Atribusi:** [ATTRIBUTION.id.md](./ATTRIBUTION.id.md) · [ATTRIBUTION.en.md](./ATTRIBUTION.en.md)
 
-Sekali diterbitkan, lirik tersebut menjadi bagian dari sejarah tetap karya yang tidak boleh diubah, dihapus, atau ditulis ulang, bahkan oleh saya sendiri (Andra Eka / Andra Sayekti) sebagai penciptanya.
 
-Setiap perubahan kreatif selanjutnya harus diterbitkan secara terpisah sebagai variasi atau adaptasi, tanpa menggantikan teks kanonik.
+## Mau Berkontribusi?
 
-Ketentuan ini menjaga keaslian, keutuhan, dan jejak historis setiap karya.
+Untuk saat ini, `merduning-dhwani` masih dikelola secara mandiri dan belum membuka penerimaan karya dari kontributor luar untuk dimasukkan ke dalam katalog utama.
 
-Untuk ketentuan selengkapnya, silakan baca [Konstitusi Teks Kanonik](https://github.com/sayektiandra/merduning-dhwani/blob/main/KONSTITUSI-TEKS-KANONIK.md).
+Punya ide atau ingin mengembangkan repositori ini dengan versi sendiri? Silakan **fork** repositori ini, lalu kembangkan sesuai kreativitas Anda.
 
-## Dukungan / Donasi Sukarela
+Dengan begitu, Anda tetap bebas berkarya tanpa harus menunggu persetujuan untuk mengembangkan repositori utama.
 
-Jika Anda menikmati karya-karya dalam repositori ini dan ingin mendukung pengelola repositori, donasi sukarela dapat diberikan melalui platform berikut:
+**Perlu diingat:** Fork dan perubahan lisensi pada repositori turunan tidak serta-merta mengubah atau mencabut lisensi karya yang telah dinyatakan berlisensi dalam repositori utama. Anda tidak berhak secara sepihak melarang orang lain menggunakan, membagikan, atau mengadaptasi karya tersebut selama mereka mematuhi ketentuan lisensi aslinya.
+
+Lisensi baru pada repositori turunan hanya berlaku sejauh hak yang memang dimiliki atau diberikan kepada pengelolanya. Hak atas karya asli tetap mengikuti lisensi yang melekat padanya.
+
+## Profil dan Kontak
+
+Ingin mengenal pencipta lebih jauh? Profil Andra Sayekti tersedia di [`profil-pencipta`](./profil-pencipta/).
+
+| Kategori | Platform | Tautan |
+| **Personal** | Facebook | [Andra Eka](https://www.facebook.com/andraekaaa) |
+| **Personal** | X/Twitter | [Andra Eka](https://www.x.com/andraekaaa) |
+
+### Klaim Hak (*Rights Claim*)
+
+Saat ini, belum tersedia kontak pribadi khusus untuk pengajuan klaim hak. Jika ingin menyampaikan klaim atau laporan terkait hak atas materi dalam repositori ini, silakan buka [GitHub Issues](https://github.com/sayektiandra/merduning-dhwani/issues).
+
+Setiap laporan dapat ditindaklanjuti secara terbuka dan komunitas juga dapat mengikuti perkembangannya. Laporan tidak serta-merta mengubah teks kanonik. Perubahan terhadap teks kanonik mengikuti mekanisme revisi yang ditetapkan, sedangkan laporan pelanggaran hak akan ditangani sesuai ketentuan hukum dan kebijakan platform yang berlaku.
+
+## Dukungan / Donasi
+
+Setiap karya memiliki perjalanan, dan setiap dukungan menjadi bagian kecil yang membantu perjalanan itu terus berlanjut.
+
+Jika karya-karya di repositori ini memberi manfaat atau kesan tersendiri, Anda dapat memberikan apresiasi melalui:
 
 | Platform | Tautan |
 | :--- | :--- |
 | **Trakteer** | [Dukung via Trakteer](https://trakteer.id/sayektiandra/tip) |
 
-Donasi sepenuhnya sukarela dan bukan merupakan syarat untuk mengakses, menggunakan, membagikan, mengadaptasi, atau menggunakan karya untuk tujuan komersial sesuai ketentuan CC BY 4.0.
+---
+
+Donasi sepenuhnya bersifat sukarela dan bukan merupakan syarat untuk mengakses, menggunakan, membagikan, mengadaptasi, maupun menggunakan karya untuk tujuan komersial sesuai ketentuan CC BY 4.0.
 
 Tautan donasi ini ditujukan untuk mendukung pengelola repositori. Untuk mendukung pencipta atau kontributor tertentu, silakan periksa informasi yang disertakan pada karya terkait.
-
-## Indeks Karya
-
-Karya-karya dalam repositori ini disusun berdasarkan bahasa untuk memudahkan penelusuran.
-
-Setiap karya memiliki halaman atau berkas tersendiri yang memuat informasi seperti judul, pencipta, bahasa, dan keterangan terkait karya.
-
-Daftar karya akan diperbarui seiring dengan penambahan karya baru ke dalam repositori ini.
