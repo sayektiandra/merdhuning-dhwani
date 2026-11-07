@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/sayektiandra/merduning-dhwani)](https://github.com/sayektiandra/merduning-dhwani/issues)
+
 # Merduning Dhwani
 
 Merduning Dhwani adalah repositori untuk menghimpun, mendokumentasikan, dan membagikan karya lagu, terutama lirik lagu dan materi tertulis yang berkaitan.
