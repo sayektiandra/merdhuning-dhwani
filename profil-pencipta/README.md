@@ -1,14 +1,13 @@
-# PROFIL PENCIPTA
+# PROFIL PENIPTA
 
-**Nama Profesional:** Andra Eka  
-**Nama Pena:** Andra Sayekti  
-**Bidang Karya:** Musik dan Sastra  
+**Nama Pencipta:** Andra Sayekti  
+**Bidang Karya:** Sastra  
 **Peran:** Pencipta dan Penulis Lirik  
 **Repositori:** `merduning-dhwani`
 
 ## Tentang Pencipta
 
-Andra Eka, yang juga menggunakan nama pena Andra Sayekti, memiliki ketertarikan untuk belajar dan mengembangkan kemampuan dalam penulisan serta penciptaan karya.
+Andra Sayekti merupakan penulis lirik dan pencipta karya yang memiliki ketertarikan untuk terus belajar serta mengembangkan kemampuan dalam penulisan dan penciptaan karya.
 
 ## Proses dan Eksperimen
 
@@ -16,4 +15,4 @@ Dalam berkarya, selalu ada keinginan untuk menghasilkan sesuatu yang baik dan da
 
 ## Ruang Berkarya
 
-Selain `merduning-dhwani`, Andra Eka juga mengembangkan repositori [`reroncening-pakurmatan`](https://github.com/sayektiandra/reroncening-pakurmatan), yang secara khusus menghimpun karya dan pengembangan sastra Jawa bernuansa Islami.
+Selain `merduning-dhwani`, Andra Sayekti juga mengembangkan repositori [`reroncening-pakurmatan`](https://github.com/sayektiandra/reroncening-pakurmatan), yang secara khusus menghimpun karya dan pengembangan sastra Jawa bernuansa Islami.
