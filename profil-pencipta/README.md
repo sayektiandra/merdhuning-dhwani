@@ -1,4 +1,4 @@
-# PROFIL PENIPTA
+# PROFIL PENCIPTA
 
 **Nama Pencipta:** Andra Sayekti  
 **Bidang Karya:** Sastra  
