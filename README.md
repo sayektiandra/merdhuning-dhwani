@@ -30,7 +30,7 @@ Tidak tahu cara membuat atribusi? Tenang, buka `METADATA.md` pada folder karya. 
 
 **3. Mau menerjemahkan atau mengubah lirik?**
 
-Boleh sekali... Anda bebas menerjemahkan, mengubah, atau mengembangkan karya menjadi versi baru.
+Boleh sekali... Kalian bebas menerjemahkan, mengubah, atau mengembangkan karya menjadi versi baru.
 
 Jangan lupa:
 - Cantumkan atribusi karya aslinya.
