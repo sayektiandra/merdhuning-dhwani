@@ -1,10 +1,10 @@
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](CAKUPAN-LISENSI.md)
 [![Scope of License (EN)](https://img.shields.io/badge/Scope_of_License-English-blue)](SCOPE-OF-LICENSE.md)
-[![Issues](https://img.shields.io/github/issues/sayektiandra/merduning-dhwani)](https://github.com/sayektiandra/merduning-dhwani/issues)
+[![Issues](https://img.shields.io/github/issues/sayektiandra/merdhuning-dhwani)](https://github.com/sayektiandra/merdhuning-dhwani/issues)
 
 
-# Merduning Dhwani
+# Merdhuning Dhwani
 
 Simplenya — repo ini berisi kumpulan lirik karya Andra Sayekti dan para kontributor, jika ada.
 
@@ -60,7 +60,7 @@ Untuk penggunaan lebih lanjut, termasuk hal-hal yang membutuhkan pemahaman keten
 
 ## Mau Berkontribusi?
 
-Untuk saat ini, `merduning-dhwani` masih dikelola secara mandiri dan belum membuka penerimaan karya dari kontributor luar untuk dimasukkan ke dalam katalog utama.
+Untuk saat ini, `merdhuning-dhwani` masih dikelola secara mandiri dan belum membuka penerimaan karya dari kontributor luar untuk dimasukkan ke dalam katalog utama.
 
 Punya ide atau ingin mengembangkan repositori ini dengan versi sendiri? Silakan **fork** repositori ini, lalu kembangkan sesuai kreativitas Anda.
 
@@ -80,7 +80,7 @@ Ingin mengenal pencipta lebih jauh? Profil Andra Sayekti tersedia di [`profil-pe
 
 ### Klaim Hak (*Rights Claim*)
 
-Saat ini, belum tersedia kontak pribadi khusus untuk pengajuan klaim hak. Jika ingin menyampaikan klaim atau laporan terkait hak atas materi dalam repositori ini, silakan buka [GitHub Issues](https://github.com/sayektiandra/merduning-dhwani/issues).
+Saat ini, belum tersedia kontak pribadi khusus untuk pengajuan klaim hak. Jika ingin menyampaikan klaim atau laporan terkait hak atas materi dalam repositori ini, silakan buka [GitHub Issues](https://github.com/sayektiandra/merdhuning-dhwani/issues).
 
 Setiap laporan dapat ditindaklanjuti secara terbuka dan komunitas juga dapat mengikuti perkembangannya. Laporan tidak serta-merta mengubah teks kanonik. Perubahan terhadap teks kanonik mengikuti mekanisme revisi yang ditetapkan, sedangkan laporan pelanggaran hak akan ditangani sesuai ketentuan hukum dan kebijakan platform yang berlaku.
 
