@@ -24,13 +24,13 @@ Gampang ahh.. Buka folder karya, pilih judul yang ingin dibaca, lalu buka `CANON
 
 **2. Mau menggunakan atau menyanyikan ulang?**
 
-Boleh banget! Silakan gunakan, bagikan, atau nyanyikan ulang karya di sini. Cukup cantumkan atribusi pencipta sesuai ketentuan CC BY 4.0.
+Boleh banget... Silakan gunakan, bagikan, atau nyanyikan ulang karya di sini. Cukup cantumkan atribusi pencipta sesuai ketentuan CC BY 4.0.
 
 Tidak tahu cara membuat atribusi? Tenang, buka `METADATA.md` pada folder karya. Tinggal salin dan tempel format yang sudah disediakan.
 
 **3. Mau menerjemahkan atau mengubah lirik?**
 
-Boleh Banget... Anda bebas menerjemahkan, mengubah, atau mengembangkan karya menjadi versi baru.
+Boleh sekali... Anda bebas menerjemahkan, mengubah, atau mengembangkan karya menjadi versi baru.
 
 Jangan lupa:
 - Cantumkan atribusi karya aslinya.
