@@ -1,13 +1,13 @@
 # PROFIL PENCIPTA
 
-**Nama Pencipta:** Andra Sayekti  
+**Nama Pena:** Andra Sayekti  
 **Bidang Karya:** Sastra  
-**Peran:** Pencipta dan Penulis Lirik  
-**Repositori:** `merduning-dhwani`
+**Peran:** Penulis Lirik  
+**Repositori:** `sayektiandra/merduning-dhwani`
 
 ## Tentang Pencipta
 
-Andra Sayekti merupakan penulis lirik dan pencipta karya yang memiliki ketertarikan untuk terus belajar serta mengembangkan kemampuan dalam penulisan dan penciptaan karya.
+Andra Sayekti memiliki ketertarikan untuk terus belajar serta mengembangkan kemampuan dalam penulisan dan penciptaan karya.
 
 ## Proses dan Eksperimen
 
