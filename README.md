@@ -1,4 +1,4 @@
-Sedang mempertimbangkan pergantian license...
+Sedang mempertimbangkan pergantian license... mungkin perlu waktu sedikit lebih lama untuk merelease karya dan merombak apa yang sudah ada.
 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](CAKUPAN-LISENSI.md)
