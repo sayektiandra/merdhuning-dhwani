@@ -11,7 +11,7 @@ The following information is recommended when providing attribution:
 - **Title:** [Work Title]
 - **Creator:** [Creator's Name]
 - **Source:** [Direct Link to the Original Work, or the Original GitHub Repository]
-- **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- **License:** [Creative Commons Attribution 4.0 International (CC BY-SA 4.0)]https://creativecommons.org/licenses/by-sa/4.0/
 - **Changes:** [No changes made / Describe the changes, if applicable]
 
 Retain any copyright notices and other attribution information supplied with the work, as required by the applicable license.
@@ -26,7 +26,7 @@ Song: [Work Title]
 Written by: [Creator's Name]  
 Source: [Link to the Original Work]  
 License: CC BY 4.0
-https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/
 
 For a cover, demo, or adapted version, you may additionally identify the performer and indicate changes made to the original work.
 
@@ -34,7 +34,7 @@ For a cover, demo, or adapted version, you may additionally identify the perform
 
 A shorter attribution format may be used when appropriate, provided that it satisfies the applicable CC BY 4.0 requirements.
 
-"[Work Title]" by [Creator's Name], licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+"[Work Title]" by [Creator's Name], licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Source: [Link to the Original Work]
 
 Attribution may be presented in a manner appropriate to the educational format, provided the applicable license requirements are met.
@@ -45,7 +45,7 @@ Song: [Work Title]
 Written by: [Creator's Name]  
 Performance or recording by: [Performer or Recording Artist, if applicable]  
 Source: [Link to the Original Work]  
-License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Please check the relevant work's README file for any separate licensing terms applicable to a recording, demo, or performance.
 
@@ -59,4 +59,4 @@ This document is an attribution guide, not a separate license. The applicable te
 
 The recommended attribution formats are provided for convenience and are not intended to impose additional restrictions beyond CC BY 4.0. Attribution requirements remain subject to the terms of that license and applicable law.
 
-For the complete license terms, see the [Creative Commons Attribution 4.0 International Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode).
+For the complete license terms, see the [Creative Commons Attribution 4.0 International Legal Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode).

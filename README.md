@@ -6,9 +6,9 @@
 >
 > This repository is currently undergoing a license policy transition from **CC BY 4.0** to **CC BY-SA 4.0**. Related documentation and terms are being updated. During this transition, please verify the license status and applicable terms of each material before using it.
 
-[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](CAKUPAN-LISENSI.md)
-[![Scope of License (EN)](https://img.shields.io/badge/Scope_of_License-English-blue)](SCOPE-OF-LICENSE.md)
+[![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](./LICENSE.md)
+[![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](./CAKUPAN-LISENSI.md)
+[![Scope of License (EN)](https://img.shields.io/badge/Scope_of_License-English-blue)](./SCOPE-OF-LICENSE.md)
 [![Issues](https://img.shields.io/github/issues/sayektiandra/merdhuning-dhwani)](https://github.com/sayektiandra/merdhuning-dhwani/issues)
 
 
@@ -32,7 +32,7 @@ Gampang ahh.. Buka folder karya, pilih judul yang ingin dibaca, lalu buka `CANON
 
 **2. Mau menggunakan atau menyanyikan ulang?**
 
-Boleh banget... Silakan gunakan, bagikan, atau nyanyikan ulang karya di sini. Cukup cantumkan atribusi pencipta sesuai ketentuan CC BY 4.0.
+Boleh banget... Silakan gunakan, bagikan, atau nyanyikan ulang karya di sini. Cukup cantumkan atribusi pencipta sesuai ketentuan  CC BY-SA 4.0.
 
 Tidak tahu cara membuat atribusi? Tenang, buka `METADATA.md` pada folder karya. Tinggal salin dan tempel format yang sudah disediakan.
 
@@ -43,11 +43,12 @@ Boleh sekali... Kalian bebas menerjemahkan, mengubah, atau mengembangkan karya m
 Jangan lupa:
 - Cantumkan atribusi karya aslinya.
 - Beritahukan perubahan yang Anda lakukan.
+- Jika membagikan materi adaptasi yang termasuk dalam cakupan ketentuan ShareAlike, gunakan lisensi yang sama atau lisensi kompatibel sesuai ketentuan CC BY-SA 4.0.
 - Jangan menyamarkan karya adaptasi seolah-olah merupakan karya asli tanpa perubahan.
 
 **4. Harus minta izin dulu?**
 
-Tidak perlu meminta izin satu per satu untuk penggunaan yang sudah diizinkan oleh CC BY 4.0. Selama ketentuan lisensinya dipatuhi, silakan berkarya.
+Tidak perlu meminta izin satu per satu untuk penggunaan yang sudah diizinkan oleh CC BY-SA 4.0. Selama ketentuan lisensinya dipatuhi, silakan berkarya.
 
 **5. Masih bingung?**
 
@@ -74,9 +75,13 @@ Punya ide atau ingin mengembangkan repositori ini dengan versi sendiri? Silakan 
 
 Dengan begitu, Anda tetap bebas berkarya tanpa harus menunggu persetujuan untuk mengembangkan repositori utama.
 
-**Perlu diingat:** Fork dan perubahan lisensi pada repositori turunan tidak serta-merta mengubah atau mencabut lisensi karya yang telah dinyatakan berlisensi dalam repositori utama. Anda tidak berhak secara sepihak melarang orang lain menggunakan, membagikan, atau mengadaptasi karya tersebut selama mereka mematuhi ketentuan lisensi aslinya.
+**Perlu diingat:** Fork, perubahan, maupun penetapan lisensi baru pada repositori turunan tidak serta-merta mengubah, menggantikan, atau mencabut lisensi yang telah diberikan atas karya asli dalam repositori utama.
 
-Lisensi baru pada repositori turunan hanya berlaku sejauh hak yang memang dimiliki atau diberikan kepada pengelolanya. Hak atas karya asli tetap mengikuti lisensi yang melekat padanya.
+Pengelola repositori turunan tidak berhak secara sepihak membatalkan ketentuan lisensi asli atau melarang pihak lain menggunakan, memperbanyak, membagikan, maupun mengadaptasi karya asli selama penggunaan tersebut mematuhi ketentuan lisensi yang berlaku.
+
+Setiap lisensi baru yang ditetapkan pada repositori turunan hanya berlaku sejauh hak yang dimiliki atau secara sah diberikan kepada pengelolanya. Penetapan lisensi tersebut tidak menghapus kewajiban lisensi yang melekat pada karya asli maupun materi adaptasi yang tunduk pada ketentuan ShareAlike.
+
+Hak cipta atas karya asli tetap berada pada pencipta atau pemegang hak cipta yang sah dan penggunaan karya tersebut tetap mengikuti lisensi yang melekat padanya.
 
 ## Profil dan Kontak
 
@@ -104,6 +109,6 @@ Jika karya-karya di repositori ini memberi manfaat atau kesan tersendiri, Anda d
 
 ---
 
-Donasi sepenuhnya bersifat sukarela dan bukan merupakan syarat untuk mengakses, menggunakan, membagikan, mengadaptasi, maupun menggunakan karya untuk tujuan komersial sesuai ketentuan CC BY 4.0.
+Donasi sepenuhnya bersifat sukarela dan bukan merupakan syarat untuk mengakses, menggunakan, membagikan, mengadaptasi, maupun menggunakan karya untuk tujuan komersial sesuai ketentuan CC BY-SA 4.0.
 
 Tautan donasi ini ditujukan untuk mendukung pengelola repositori. Untuk mendukung pencipta atau kontributor tertentu, silakan periksa informasi yang disertakan pada karya terkait.
