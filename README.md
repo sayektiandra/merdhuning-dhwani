@@ -1,4 +1,10 @@
-Sedang mempertimbangkan pergantian license... mungkin perlu waktu sedikit lebih lama untuk merelease karya dan merombak apa yang sudah ada.
+> **⚠️ PEMBERITAHUAN PERUBAHAN KEBIJAKAN LISENSI**
+>
+> Repositori ini sedang dalam proses penyesuaian kebijakan lisensi dari **CC BY 4.0** ke **CC BY-SA 4.0**. Dokumentasi dan ketentuan terkait sedang diperbarui. Selama masa transisi, silakan periksa status lisensi dan ketentuan yang berlaku pada setiap materi sebelum menggunakannya.
+>
+> **⚠️ LICENSE POLICY TRANSITION NOTICE**
+>
+> This repository is currently undergoing a license policy transition from **CC BY 4.0** to **CC BY-SA 4.0**. Related documentation and terms are being updated. During this transition, please verify the license status and applicable terms of each material before using it.
 
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](CAKUPAN-LISENSI.md)
