@@ -1,62 +1,65 @@
-# Attribution Guide
+# Attribution Guidelines
 
-This document provides recommended attribution formats for musical works and related materials in this repository.
+This document provides simple guidelines for attributing original works and adaptations published in this repository.
 
-When sharing or adapting a work identified as licensed under CC BY 4.0 in this repository, provide appropriate attribution in accordance with the applicable license terms. Please check the relevant work's README file to confirm its creator, source, license, and any additional information.
+Works explicitly identified as being licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license may be used, shared, and adapted in accordance with its terms.
 
-## Recommended Attribution
+## 1. Attribution for Original Works
 
-The following information is recommended when providing attribution:
+When sharing or using a work without modifications, include the following information:
 
-- **Title:** [Work Title]
-- **Creator:** [Creator's Name]
-- **Source:** [Direct Link to the Original Work, or the Original GitHub Repository]
-- **License:** [Creative Commons Attribution 4.0 International (CC BY-SA 4.0)]https://creativecommons.org/licenses/by-sa/4.0/
-- **Changes:** [No changes made / Describe the changes, if applicable]
+- **Title:** The title of the work.
+- **Creator:** The name of the original creator.
+- **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+- **Source:** A link to the original work, where reasonably possible.
 
-Retain any copyright notices and other attribution information supplied with the work, as required by the applicable license.
+Example:
 
-For recordings, demos, or performances, you may also credit the relevant performer, recording artist, arranger, or instrumentalist where applicable.
+Work: [Work Title]  
+Creator: [Creator Name]  
+License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+Source: [Link to Original Work]
 
-## Suggested Formats
+## 2. Attribution for Adapted Works
 
-### For YouTube Descriptions
+When translating, modifying, or adapting a work, retain attribution to the original creator and indicate that changes have been made.
 
-Song: [Work Title]  
-Written by: [Creator's Name]  
-Source: [Link to the Original Work]  
-License: CC BY 4.0
-https://creativecommons.org/licenses/by-sa/4.0/
+Include the following information:
 
-For a cover, demo, or adapted version, you may additionally identify the performer and indicate changes made to the original work.
+- **Original Work:** The title of the original work.
+- **Original Creator:** The name of the original creator.
+- **Source:** A link to the original work, where reasonably possible.
+- **Original Work License:** CC BY-SA 4.0.
+- **Modifications:** A brief description of the changes made.
+- **Adapter:** The name of the person or entity that created the adaptation.
+- **Adapted Material License:** CC BY-SA 4.0 or a compatible license, as permitted by the license terms.
 
-### For Educational Materials
+Example:
 
-A shorter attribution format may be used when appropriate, provided that it satisfies the applicable CC BY 4.0 requirements.
+Original Work: [Original Work Title]  
+Original Creator: [Creator Name]  
+Source: [Link to Original Work]  
+Original Work License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+Modifications: [Translation into English / Lyric adaptation / Other modifications]  
+Adapter: [Adapter Name]  
+Adapted Material License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-"[Work Title]" by [Creator's Name], licensed under [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
-Source: [Link to the Original Work]
+## 3. Attribution for Live Performances
 
-Attribution may be presented in a manner appropriate to the educational format, provided the applicable license requirements are met.
+For live performances where no visual medium or suitable space is available to provide complete attribution, the following simplified format may be used:
 
-### For Audio Demos and Performances
+**[Work Title] — written by [Creator Name], licensed under CC BY-SA 4.0.**
 
-Song: [Work Title]  
-Written by: [Creator's Name]  
-Performance or recording by: [Performer or Recording Artist, if applicable]  
-Source: [Link to the Original Work]  
-License: [CC BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Where reasonably possible, information about the original source may be provided through a setlist, event program, publication page, or other accessible link.
 
-Please check the relevant work's README file for any separate licensing terms applicable to a recording, demo, or performance.
+## 4. General Requirements
 
-## Modifications
+- Retain copyright and license notices supplied with the work.
+- Indicate whether the work has been translated, modified, or adapted.
+- Attribution to the original creator does not imply that the creator endorses or approves an adaptation made by another party.
+- When Adapted Material is distributed, comply with the ShareAlike requirements under the CC BY-SA 4.0 license.
+- Attribution formats may be adjusted to suit the medium and context of use, provided that the license requirements are met.
 
-If you adapt, rearrange, translate, or otherwise modify a work, indicate that changes were made in accordance with the applicable license terms. Where reasonably practical, describe the changes and include a link to the modified version.
+This document is a guideline, not a separate license. The terms of **CC BY-SA 4.0** remain the primary reference. These guidelines do not introduce additional requirements or restrictions beyond those established by the license.
 
-## Legal Notice
-
-This document is an attribution guide, not a separate license. The applicable terms of CC BY 4.0 prevail in the event of any inconsistency.
-
-The recommended attribution formats are provided for convenience and are not intended to impose additional restrictions beyond CC BY 4.0. Attribution requirements remain subject to the terms of that license and applicable law.
-
-For the complete license terms, see the [Creative Commons Attribution 4.0 International Legal Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+Read the [Creative Commons Attribution-ShareAlike 4.0 International Legal Code](https://creativecommons.org/licenses/by-sa/4.0/legalcode) for the complete license terms.
