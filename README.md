@@ -1,3 +1,5 @@
+Sedang mempertimbangkan pergantian license...
+
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Cakupan Lisensi (ID)](https://img.shields.io/badge/Cakupan_Lisensi-Bahasa_Indonesia-blue)](CAKUPAN-LISENSI.md)
 [![Scope of License (EN)](https://img.shields.io/badge/Scope_of_License-English-blue)](SCOPE-OF-LICENSE.md)
