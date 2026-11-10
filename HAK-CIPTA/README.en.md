@@ -2,39 +2,41 @@
 
 ## 1. Copyright
 
-The exclusive rights of a creator that arise automatically once a work has been expressed in a tangible form, in accordance with applicable laws and regulations.
+The exclusive rights of a creator that arise automatically once a work has been fixed in a tangible form, in accordance with the applicable laws and regulations.
 
-## 2. CC BY-SA 4.0 License
+## 2. CC BY 4.0 License
 
-An open license that grants the public permission to reproduce, share, and adapt a work, including for commercial purposes, subject to the Attribution and ShareAlike requirements set out in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license.
+An open license that grants the public permission to reproduce, distribute, and adapt a work, including for commercial purposes, subject to the attribution requirements set out in the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ## 3. Principles
 
-Granting a work under CC BY-SA 4.0 does not transfer copyright ownership to users. The creator or copyright holder retains their rights, while the public receives permission to use the work under the terms and conditions of the license.
+The granting of a CC BY 4.0 license does not transfer copyright ownership to users. The creator or copyright holder retains their rights, while the public receives permission to use the work under the terms and conditions of the license.
 
-Users who share Adapted Material must license their contributions to that Adapted Material under a Creative Commons license with the same license elements or a compatible license, as specified by the license terms.
+Users may establish separate licensing terms for their own creative contributions and rights in adapted material, including granting exclusive licenses over those contributions.
+
+Such terms must not restrict the public's rights to use the original work under CC BY 4.0. Users must also comply with the attribution requirements, indicate changes where applicable, and observe all other applicable license conditions.
 
 ## 4. Discontinuation of Distribution and License Validity
 
-The creator or copyright holder may discontinue the distribution of a work or offer the work under different licensing terms through separate permission arrangements.
+The creator or copyright holder has the right to discontinue the distribution of a work or offer the work under different licensing terms for separate permissions.
 
-Discontinuing distribution or changing the licensing terms for new uses does not invalidate or revoke usage rights previously granted under CC BY-SA 4.0.
+Discontinuing distribution or changing the licensing terms for new uses does not invalidate or revoke permissions previously granted under CC BY 4.0.
 
-Previous recipients may continue to use, reproduce, share, and adapt the work under the terms of CC BY-SA 4.0, provided that they comply with the applicable license requirements.
+Previous recipients may continue to use, reproduce, distribute, and adapt the work under the terms of CC BY 4.0, provided that they comply with the license requirements.
 
-## 5. Legal and Licensing References
+## 5. Legal and License References
 
-This documentation refers to the following legal sources and license terms:
+This documentation refers to the following legal and licensing sources:
 
 ### A. Indonesian Copyright Law
 
-Law of the Republic of Indonesia Number 28 of 2014 concerning Copyright.
+Law of the Republic of Indonesia Number 28 of 2014 on Copyright.
 
 Source: https://peraturan.bpk.go.id/Read/28018/UU%20Nomor%2028%20Tahun%202014.pdf
 
 ### B. Creative Commons License
 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Creative Commons Attribution 4.0 International (CC BY 4.0).
 
-- Legal Code: https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt
-- License Deed: https://creativecommons.org/licenses/by-sa/4.0/
+- Legal Code: https://creativecommons.org/licenses/by/4.0/legalcode.txt
+- License Deed: https://creativecommons.org/licenses/by/4.0/
